@@ -135,3 +135,7 @@ Let's add some more tests to increase coverage.
    <img width="500" alt="image" src="https://github.com/DebbieAUG/github-skills-challenge/blob/main/.github/images/merge-button-active.png?raw=true" />
 
 1. With full coverage, all tests passing, and the pull request merged, Mona will share a final review. Congrats, you are all done!
+
+
+Now acc to these /workspaces/github-skills-challenge/.github/steps
+check all the steps are completed and working fine and are they ready to submit and are capable of full marks 
