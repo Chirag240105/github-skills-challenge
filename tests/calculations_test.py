@@ -20,7 +20,7 @@ def test_area_of_circle_positive_radius():
 
     # Assert
     assert abs(result - 3.14159) < 1e-5
-
+print(test_area_of_circle_positive_radius())
 
 def test_area_of_circle_zero_radius():
     """Test with a radius of zero."""

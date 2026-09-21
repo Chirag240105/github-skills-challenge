@@ -56,6 +56,7 @@ Let's learn how to automate this ever-growing need for testing our code by using
 
 1. Add a comment in this issue to let Mona know the results of your coverage report. After reviewing, she will provide the next steps.
 
+
    ```md
    @professortocat, I've run my coverage report.
    Seems there is some opportunity to increase the test coverage. 🧐
